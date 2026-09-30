@@ -1,0 +1,9 @@
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
+*.map
+*.zip
+*.before-*
+.DS_Store
